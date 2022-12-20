@@ -1,0 +1,14 @@
+C:\Users\ProBook\Desktop\ASbstract\ASbstract\bin\Debug\netcoreapp3.1\ASbstract.exe
+C:\Users\ProBook\Desktop\ASbstract\ASbstract\bin\Debug\netcoreapp3.1\ASbstract.deps.json
+C:\Users\ProBook\Desktop\ASbstract\ASbstract\bin\Debug\netcoreapp3.1\ASbstract.runtimeconfig.json
+C:\Users\ProBook\Desktop\ASbstract\ASbstract\bin\Debug\netcoreapp3.1\ASbstract.runtimeconfig.dev.json
+C:\Users\ProBook\Desktop\ASbstract\ASbstract\bin\Debug\netcoreapp3.1\ASbstract.dll
+C:\Users\ProBook\Desktop\ASbstract\ASbstract\bin\Debug\netcoreapp3.1\ASbstract.pdb
+C:\Users\ProBook\Desktop\ASbstract\ASbstract\obj\Debug\netcoreapp3.1\ASbstract.csproj.AssemblyReference.cache
+C:\Users\ProBook\Desktop\ASbstract\ASbstract\obj\Debug\netcoreapp3.1\ASbstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ProBook\Desktop\ASbstract\ASbstract\obj\Debug\netcoreapp3.1\ASbstract.AssemblyInfoInputs.cache
+C:\Users\ProBook\Desktop\ASbstract\ASbstract\obj\Debug\netcoreapp3.1\ASbstract.AssemblyInfo.cs
+C:\Users\ProBook\Desktop\ASbstract\ASbstract\obj\Debug\netcoreapp3.1\ASbstract.csproj.CoreCompileInputs.cache
+C:\Users\ProBook\Desktop\ASbstract\ASbstract\obj\Debug\netcoreapp3.1\ASbstract.dll
+C:\Users\ProBook\Desktop\ASbstract\ASbstract\obj\Debug\netcoreapp3.1\ASbstract.pdb
+C:\Users\ProBook\Desktop\ASbstract\ASbstract\obj\Debug\netcoreapp3.1\ASbstract.genruntimeconfig.cache
